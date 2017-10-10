@@ -10,8 +10,6 @@
 1. 网站的整体文件夹结构如下：
 ```
 网站根文件夹/
-    README.md
-    网页效果图.pdf
     asset/
         慢风景1-你好澳门你好香港.txt
         慢生活1-蒸肉粉炒鸡蛋.txt
@@ -41,16 +39,19 @@
         wy02.jpg
         yz01.jpg
         yz01.jpg
-    sh/
-        sh01.html
-        sh02.html
+    sh/        
         images/
             sh01-01.png
             sh02-01.jpg
             sh02-02.jpg
             sh02-03.jpg
             sh02-04.jpg
-   ```
+        sh01.html
+        sh02.html
+index.html
+README.md
+网页效果图.pdf
+```
 2. 完成4个网页，网页名称分别为index.html，sh01.html，sh02.html，fj01.html
 3. 网页的最终效果参考"网页效果图.pdf"
 
